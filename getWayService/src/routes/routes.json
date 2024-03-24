@@ -1,0 +1,24 @@
+{
+    "services": {
+        "user": {
+            "apiName": "user",
+            "host": "http://localhost",
+            "port": 8080,
+            "url": "http://localhost:8080/",
+            "checkAuthorize": true
+        },
+        "profile": {
+            "apiName": "profile",
+            "host": "http://localhost",
+            "port": 8081,
+            "url": "http://localhost:8081/",
+            "checkAuthorize": true
+        },
+        "login": {
+            "apiName": "login",
+            "host": "http://localhost",
+            "port": 8080,
+            "url": "http://localhost:8080/"
+        }
+    }
+}
